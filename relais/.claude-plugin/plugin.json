@@ -1,0 +1,7 @@
+{
+  "name": "relais",
+  "version": "0.1.0",
+  "description": "/relais : envoie un résumé des décisions de cette session à une autre session, et affiche les relais reçus au-dessus du prompt.",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

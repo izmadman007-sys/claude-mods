@@ -1,0 +1,5 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "izmadman007-sys" },
+  "plugins": [{ "name": "relais", "source": "./relais" }]
+}
